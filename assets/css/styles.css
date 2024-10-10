@@ -5,3 +5,11 @@ body{
 audio {
     width: 16rem ;
 }
+
+.text-color{
+    color: white;
+}
+
+.btnPaginador{
+    cursor: pointer;
+}
